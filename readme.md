@@ -1,9 +1,9 @@
-# <img src="source/icon.png" width="45" align="left"> Refined GitHub
+# <img src="source/icon.png" width="45" align="left"> Refined GitHub Projects
 
 [link-cws]: https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf "Version published on Chrome Web Store"
 [link-amo]: https://addons.mozilla.org/en-US/firefox/addon/refined-github-/ "Version published on Mozilla Add-ons"
 
-> Browser extension that simplifies the GitHub interface and adds useful features
+> Browser extension that improves the GitHub Projects interface and adds useful features
 
 We use GitHub a lot and notice many annoyances we'd like to fix. So here be dragons.
 
